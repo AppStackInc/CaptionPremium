@@ -1,11 +1,99 @@
 [
     {
+        "id":16,
+        "name":"Oscar Wilde",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a16.webp",
+        "caption":"Be yourself; everyone else is already taken.",
+        "author": "Oscar Wilde"
+    },
+    {
+        "id":15,
+        "name":"Aristotle",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a15.webp",
+        "caption":"It is during our darkest moments that we must focus to see the light.",
+        "author": "Aristotle"
+    },
+    {
+        "id":14,
+        "name":"Helen Keller",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a14.webp",
+        "caption":"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+        "author": "Helen Keller"
+    },
+    {
+        "id":13,
+        "name":"Benjamin Franklin",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a13.webp",
+        "caption":"Well done is better than well said.",
+        "author": "Benjamin Franklin"
+    },
+    {
+        "id":12,
+        "name":"Eleanor Roosevelt",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a12.webp",
+        "caption":"Do one thing every day that scares you.",
+        "author": "Eleanor Roosevelt"
+    },
+    {
+        "id":11,
+        "name":"Martin Luther King Jr.",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a11.webp",
+        "caption":"Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+        "author": "Martin Luther King Jr."
+    },
+    {
+        "id":10,
+        "name":"Franklin D. Roosevelt",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a10.webp",
+        "caption":"The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt"
+    },
+    {
+        "id":9,
+        "name":"Mother Teresa",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a9.webp",
+        "caption":"Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+        "author": "Mother Teresa"
+    },
+    {
+        "id":8,
+        "name":"Mahatma Gandhi",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a8.webp",
+        "caption":"You must be the change you wish to see in the world.",
+        "author": "Mahatma Gandhi"
+    },
+    {
+        "id":7,
+        "name":"John Lennon",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a7.webp",
+        "caption":"You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.",
+        "author": "John Lennon"
+    },
+    {
+        "id":6,
+        "name":"James Cameron",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a2.webp",
+        "caption":"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        "author": "James Cameron"
+    },
+    {
         "id":5,
         "name":"River",
         "keywords":"river, sand, beach",
         "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a1.webp",
         "caption":"If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
-        "author": "-Oprah Winfrey"
+        "author": "Oprah Winfrey"
     },
     {
         "id":4,
@@ -13,7 +101,7 @@
         "keywords":"city, building, sky",
         "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a4.webp",
         "caption":"The future belongs to those who believe in the beauty of their dreams.",
-        "author": "-Eleanor Roosevelt"
+        "author": "Eleanor Roosevelt"
     },
     {
         "id":3,
@@ -21,7 +109,7 @@
         "keywords":"tree, apple, book, green",
         "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a3.webp",
         "caption":"Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.",
-        "author": "-Steve Jobs"
+        "author": "Steve Jobs"
     },
     {
         "id":2,
@@ -29,7 +117,7 @@
         "keywords":"grass, green moutain",
         "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a5.webp",
         "caption":"The greatest glory in living lies not in never falling, but in rising every time we fall .",
-        "author": "-Nelson Mandela"
+        "author": "Nelson Mandela"
     },
     {
         "id":1,
