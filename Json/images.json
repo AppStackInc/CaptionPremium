@@ -1,5 +1,13 @@
 [
     {
+        "id":28,
+        "name":"written by Stan Lee",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a28.jpg",
+        "caption":"With great power comes great responsibility.",
+        "author": "written by Stan Lee"
+    },
+    {
         "id":27,
         "name":"भगवद् गीता",
         "keywords":"river, sand, beach",
