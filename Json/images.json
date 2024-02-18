@@ -1,5 +1,13 @@
 [
     {
+        "id":19,
+        "name":"Abdule kalam",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a19.jpg",
+        "caption":"अगर तुम सूरज की तरह चमकना चाहते हो, तो सूरज की तरह जलना सीखो।",
+        "author": "डॉ. एपीजे अब्दुल कलाम"
+    },
+    {
         "id":18,
         "name":"Larry Page",
         "keywords":"river, sand, beach",
