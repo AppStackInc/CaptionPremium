@@ -3,6 +3,14 @@
         "id":17,
         "name":"Larry Page",
         "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a18.jpg",
+        "caption":"Sun sets in the West, the smile on the face is the best.",
+        "author": "@Caption Premium"
+    },
+    {
+        "id":17,
+        "name":"Larry Page",
+        "keywords":"river, sand, beach",
         "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a17.jpg",
         "caption":"If you’re changing the world, you’re working on important things. You’re excited to get up in the morning.",
         "author": "Larry Page"
