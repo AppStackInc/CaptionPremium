@@ -1,5 +1,44 @@
 [
     {
+        "id":25,
+        "name":"Oprah Winfrey",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a25.jpg",
+        "caption":"You define your own life. Don't let other people write your script.",
+        "author": "Oprah Winfrey "
+    },{
+        "id":24,
+        "name":"Winston Churchill",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a24.jpg",
+        "caption":"Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "author": "Winston Churchill "
+    },
+    {
+        "id":23,
+        "name":"Walt Whitman",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a23.jpg",
+        "caption":"Keep your face always toward the sunshine, and shadows will fall behind you.",
+        "author": "Walt Whitman "
+    },
+    {
+        "id":22,
+        "name":"Nicole Kidman",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a22.jpg",
+        "caption":"Life has got all those twists and turns. You've got to hold on tight and off you go.",
+        "author": "Nicole Kidman "
+    },
+    {
+        "id":21,
+        "name":"Audrey Hepburn",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a21.jpg",
+        "caption":"Nothing is impossible. The word itself says 'I'm possible!",
+        "author": "Audrey Hepburn "
+    },
+    {
         "id":20,
         "name":"RWE",
         "keywords":"river, sand, beach",
