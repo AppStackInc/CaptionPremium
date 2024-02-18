@@ -1,5 +1,13 @@
 [
     {
+        "id":29,
+        "name":"भगवद् गीता",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a29.jpg",
+        "caption":"हर प्राणी के जीवन में परीक्षा का समय आता है, इसका अर्थ यह नहीं कि निराश हुआ जाए।",
+        "author": "भगवद् गीता"
+    },
+    {
         "id":28,
         "name":"written by Stan Lee",
         "keywords":"river, sand, beach",
@@ -12,7 +20,7 @@
         "name":"भगवद् गीता",
         "keywords":"river, sand, beach",
         "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a27_new.jpg",
-        "caption":"कर्म पर ही तुम्हारा अधिकार है, कर्म के फलों में कभी नहीं... इसलिए कर्म को फल के लिए मत करो.",
+        "caption":"कर्म पर ही तुम्हारा अधिकार है, कर्म के फलों में कभी नहीं... इसलिए कर्म को फल के लिए मत करो",
         "author": "भगवद् गीता"
     },
     {
