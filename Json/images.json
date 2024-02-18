@@ -1,18 +1,27 @@
 [
     {
+        "id":26,
+        "name":"Benjamin Franklin",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a26.jpg",
+        "caption":"If You Fail to Plan, You Are Planning to Fail.",
+        "author": "Benjamin Franklin"
+    },
+    {
         "id":25,
         "name":"Oprah Winfrey",
         "keywords":"river, sand, beach",
         "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a25.jpg",
         "caption":"You define your own life. Don't let other people write your script.",
-        "author": "Oprah Winfrey "
-    },{
+        "author": "Oprah Winfrey"
+    },
+    {
         "id":24,
         "name":"Winston Churchill",
         "keywords":"river, sand, beach",
         "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a24.jpg",
         "caption":"Success is not final, failure is not fatal: it is the courage to continue that counts.",
-        "author": "Winston Churchill "
+        "author": "Winston Churchill"
     },
     {
         "id":23,
@@ -20,7 +29,7 @@
         "keywords":"river, sand, beach",
         "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a23.jpg",
         "caption":"Keep your face always toward the sunshine, and shadows will fall behind you.",
-        "author": "Walt Whitman "
+        "author": "Walt Whitman"
     },
     {
         "id":22,
