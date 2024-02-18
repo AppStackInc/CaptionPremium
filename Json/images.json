@@ -1,4 +1,5 @@
 [
+
     {
         "id":30,
         "name":"Caption premium",
@@ -9,19 +10,11 @@
     },
     {
         "id":29,
-        "name":"भगवद् गीता",
+        "name":"Anonymous",
         "keywords":"river, sand, beach",
-        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a29.jpg",
-        "caption":"हर प्राणी के जीवन में परीक्षा का समय आता है, इसका अर्थ यह नहीं कि निराश हुआ जाए।",
-        "author": "भगवद् गीता"
-    },
-    {
-        "id":29,
-        "name":"भगवद् गीता",
-        "keywords":"river, sand, beach",
-        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a29.jpg",
-        "caption":"हर प्राणी के जीवन में परीक्षा का समय आता है, इसका अर्थ यह नहीं कि निराश हुआ जाए।",
-        "author": "भगवद् गीता"
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a29_new.jpg",
+        "caption":"Today a reader. Tomorrow a leader.",
+        "author": "Anonymous"
     },
     {
         "id":28,
