@@ -1,5 +1,13 @@
 [
     {
+        "id":27,
+        "name":"भगवद् गीता",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a27.png",
+        "caption":"कर्म पर ही तुम्हारा अधिकार है, कर्म के फलों में कभी नहीं... इसलिए कर्म को फल के लिए मत करो.",
+        "author": "भगवद् गीता"
+    },
+    {
         "id":26,
         "name":"Benjamin Franklin",
         "keywords":"river, sand, beach",
