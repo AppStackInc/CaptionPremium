@@ -1,10 +1,18 @@
 [
     {
+        "id":40,
+        "name":"Anonymous",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a40.jpg",
+        "caption":"In the end, overthinkers are always right.",
+        "author": ""
+    },
+    {
         "id":39,
         "name":"Anonymous",
         "keywords":"river, sand, beach",
         "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a39.jpg",
-        "caption":"Sit with people who protect your name in your absence",
+        "caption":"Sit with people who protect your name in your absence.",
         "author": ""
     },
     {
