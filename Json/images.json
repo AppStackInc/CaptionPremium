@@ -1,5 +1,13 @@
 [
     {
+        "id":50,
+        "name":"Anonymous",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a50.jpg",
+        "caption":"सबसे शक्तिशाली पद हासिल उतना कठिन नहीं होता जितना उस पर बने रहना होता हैं.",
+        "author": ""
+    },
+    {
         "id":49,
         "name":"Anonymous",
         "keywords":"river, sand, beach",
