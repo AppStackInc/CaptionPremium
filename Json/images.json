@@ -1,10 +1,18 @@
 [
     {
+        "id":74,
+        "name":"Anonymous",
+        "keywords":"river, sand, beach",
+        "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a74.jpg",
+        "caption":"Situation will teach you the real meaning of life.",
+        "author": ""
+    },
+    {
         "id":73,
         "name":"Anonymous",
         "keywords":"river, sand, beach",
         "url":"https://raw.githubusercontent.com/AppStackInc/CaptionPremium/main/Images/a73.jpg",
-        "caption":"Sometimes distance teach you the value of a person..",
+        "caption":"Sometimes distance teach you the value of a person.",
         "author": ""
     },
     {
